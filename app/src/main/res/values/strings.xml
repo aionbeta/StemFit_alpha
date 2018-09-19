@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitTrack</string>
+    <string name="app_company">StemFit</string>
+
+    <string name="button_register">Track</string>
+
+    <string name="msg_memo_input">Please Build</string>
+</resources>
